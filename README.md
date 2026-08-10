@@ -1,16 +1,13 @@
-## Hi there 👋
+Артём Грязнов
 
-<!--
-**HasagiGr/HasagiGr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Криптография и статистика → машинное обучение.
 
-Here are some ideas to get you started:
+Два диплома на стыке криптоанализа и статистического вывода: анализ нелинейности раундовой подстановки блочного шифра (науч. рук. В. М. Фомичёв) и авторский тест двоичных последовательностей на случайность, основанный на частотах пар, близких по Хэммингу (науч. рук. А. М. Коренева) — Финансовый университет. Параллельно два года пишу продакшен-код: распределённые системы, интеграции данных, автоматизация. Сейчас закрываю теоретический фундамент по машинному обучению и разбираю архитектуру трансформеров.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Репозитории:
+
+🔐 crypto-solver — Telegram-бот с RSA, Эль-Гамалем и калькулятором из 17 теоретико-числовых функций; написан во время обучения по ИБ в Финуниверситете
+🧠 nn-zth-exercises — курс Andrej Karpathy «Neural Networks: Zero to Hero», лекция за лекцией
+📊 data-science-small-researches — небольшие прикладные DS/ML-проекты
+
+📫 Telegram
